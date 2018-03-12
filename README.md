@@ -2,6 +2,8 @@
 
 Prerender HTML files using [PhantomJS](http://phantomjs.org). Let search engine crawlers capture the right content, not just `<div id="app"></div>` stuff. The Most common user scenario are [React](https://reactjs.org/) and [Vue](https://vuejs.org/) rendered page.
 
+<img src="https://github.com/posrix/portrayal/blob/master/prerender-seo/example.gif" width="500"/>
+
 ## Install
 
 ```bash
