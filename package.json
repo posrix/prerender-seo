@@ -13,6 +13,10 @@
   },
   "author": "posrix <posrix@outlook.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": ">=3.0.0"
+  },
   "dependencies": {
     "core-js": "^2.5.1",
     "h2o2": "^6.0.1",
@@ -27,9 +31,5 @@
   "devDependencies": {
     "eslint": "^4.6.1",
     "eslint-config-posrix": "^1.0.0"
-  },
-  "engines": {
-    "node": ">=6.0.0",
-    "npm": ">=3.0.0"
   }
 }
