@@ -1,6 +1,6 @@
 {
   "name": "prerender-seo",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Prerender Javascript rendered pages for SEO",
   "main": "lib/index.js",
   "scripts": {
