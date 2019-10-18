@@ -6,3 +6,7 @@ patch:
   SNYK-JS-HTTPSPROXYAGENT-469131:
     - puppeteer > https-proxy-agent:
         patched: '2019-10-04T06:36:01.282Z'
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-18T10:50:22.095Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-18T10:50:22.095Z'
